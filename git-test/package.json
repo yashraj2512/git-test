@@ -1,23 +1,15 @@
 {
-  "name": "coder",
+  "name": "git-test",
   "version": "1.0.0",
-  "description": "\"this is a test \"",
-  "main": "index1.html",
+  "description": "jfj",
+  "main": "index.html",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yashraj2512/git-test.git"
-  },
-  "author": "yashraj singh",
+  "author": "Yashraj",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yashraj2512/git-test/issues"
-  },
-  "homepage": "https://github.com/yashraj2512/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
